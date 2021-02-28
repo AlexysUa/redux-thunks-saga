@@ -1,6 +1,5 @@
 import { 
   CREATE_POST, 
-  FETCH_POSTS, 
   HIDE_ALERT, 
   HIDE_LOADER, 
   SHOW_ALERT, 
